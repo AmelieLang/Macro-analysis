@@ -1,0 +1,4 @@
+interface:
+  display_name: "Assess Depression Policy Management"
+  short_description: "Score policy handling of debt depressions"
+  default_prompt: "Use $assess-depression-policy-management to judge whether policymakers are managing this debt-cycle depression well or poorly."

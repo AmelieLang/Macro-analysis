@@ -1,0 +1,4 @@
+interface:
+  display_name: "Stage Debt Cycle"
+  short_description: "Classify long-term debt cycle stages"
+  default_prompt: "Use $stage-debt-cycle to classify which stage of the long-term debt cycle a country-period is in."

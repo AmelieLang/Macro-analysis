@@ -1,0 +1,4 @@
+interface:
+  display_name: "Monitor Deleveraging"
+  short_description: "Track fiscal, rates, and money signals"
+  default_prompt: "Use $monitor-deleveraging to assess whether current data show deleveraging monetization."

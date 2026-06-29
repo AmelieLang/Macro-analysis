@@ -1,0 +1,4 @@
+interface:
+  display_name: "Classify Deleveraging Quality"
+  short_description: "Classify beautiful vs ugly deleveragings"
+  default_prompt: "Use $classify-deleveraging-quality to assess whether this economy is in a beautiful or ugly deleveraging."
