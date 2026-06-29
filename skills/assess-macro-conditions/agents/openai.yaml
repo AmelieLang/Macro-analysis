@@ -1,0 +1,4 @@
+interface:
+  display_name: "Assess Macro Conditions"
+  short_description: "Assess country macro and market conditions"
+  default_prompt: "Use $assess-macro-conditions to assess a country economic and market condition dashboard."
