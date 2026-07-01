@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ugly Deleverage Model"
+  short_description: "Diagnose ugly deleveraging policy errors"
+  default_prompt: "Use $ugly-deleverage-model to judge whether a country-period is moving into an ugly deleveraging and why policy response is insufficient."
