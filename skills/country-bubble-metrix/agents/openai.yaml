@@ -1,0 +1,4 @@
+interface:
+  display_name: "Country Bubble Metrix"
+  short_description: "Build country-year bubble scorecards"
+  default_prompt: "Use $country-bubble-metrix to judge whether a country in a given year is in a bubble using official data."
