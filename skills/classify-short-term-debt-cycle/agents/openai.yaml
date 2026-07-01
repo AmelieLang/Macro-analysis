@@ -1,0 +1,4 @@
+interface:
+  display_name: "Classify Short-Term Debt Cycle"
+  short_description: "Classify short-term debt cycle phases"
+  default_prompt: "Use $classify-short-term-debt-cycle to classify a country-period into the archetypical short-term debt cycle."
