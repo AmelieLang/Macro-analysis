@@ -4,6 +4,11 @@
 
 An ugly deleveraging occurs when debt burdens are reduced mainly through contraction, defaults, asset-price declines, weak nominal income, unemployment, and fiscal deterioration rather than through a balanced reflation that lifts income faster than debt service and debt stocks.
 
+There are two broad ugly-deleveraging paths:
+
+- `Deflationary ugly deleveraging`: asset prices, collateral, credit, income, and inflation fall together; rate cuts arrive too late or do not repair balance sheets.
+- `Inflationary ugly deleveraging`: capital leaves the currency, import prices and debt-service costs rise, and policymakers face a harsher tradeoff between defending the currency and supporting growth.
+
 ## Three-Period Template
 
 ### 1. Pre-Top/Bubble
@@ -85,8 +90,78 @@ Assess:
 - Reserve flows and intervention.
 - Current account.
 - External debt, capital flows, and imported inflation/deflation.
+- Reserve-currency status and foreign demand for the country's money/debt as a store of value.
+- FX reserve adequacy relative to imports, short-term external debt, broad money, and likely capital outflows.
+- Foreign-currency debt share and whether the country can print the currency it owes.
+- Fiscal deficit and trade/current-account deficit size and trend.
+- Real interest rates, especially whether creditors are being undercompensated for inflation and depreciation risk.
+- Inflation history and past real returns on the currency/debt.
 
-Ugly signal: currency appreciation or reserve pressure tightens conditions when domestic balance sheets need reflation.
+Ugly deflationary signal: currency appreciation or reserve pressure tightens conditions when domestic balance sheets need reflation.
+
+Ugly inflationary signal: capital outflows, weak reserves, large FX debt, widening deficits, negative real rates, and weak inflation credibility force policymakers to choose between a painful currency defense and inflationary depreciation.
+
+### Currency Vulnerability Checklist
+
+Use this checklist when judging whether the currency pillar points to inflationary deleveraging risk. Score every factor as `low`, `medium`, `high`, or `unknown`.
+
+```text
+1. Reserve-currency status:
+   high risk = non-reserve currency with little global store-of-value demand
+   medium risk = regionally important or partially internationalized currency
+   low risk = major reserve currency with durable foreign demand
+
+2. FX reserve adequacy:
+   high risk = reserves cover less than 3 months of external financing/import need or are falling fast
+   medium risk = reserves cover 3-12 months, but outflows are material
+   low risk = reserves cover more than 12 months or comfortably cover short-term external debt
+
+3. Foreign-currency debt:
+   high risk = FX debt is more than 50% of total debt or a large share of GDP/export income
+   medium risk = FX debt is 20-50% of total debt or material for banks/corporates
+   low risk = FX debt is less than 20% and mostly naturally hedged
+
+4. Fiscal and trade/current-account deficits:
+   high risk = combined financing gap is above 8% of GDP or deficits are widening
+   medium risk = gap is 4-8% of GDP or one deficit is large
+   low risk = gap is below 4% of GDP, stable, or offset by strong external income
+
+5. Real interest rates:
+   high risk = real rates below -2%, especially during capital outflow
+   medium risk = real rates between -2% and 0%
+   low risk = real rates positive enough to compensate creditors
+
+6. Inflation/currency credibility:
+   high risk = repeated high inflation, defaults, controls, confiscation, or deeply negative real currency returns
+   medium risk = occasional high inflation or devaluation episodes
+   low risk = long history of low inflation and positive real creditor returns
+```
+
+Risk interpretation:
+
+```text
+5-6 high-risk factors: extreme inflationary-depression vulnerability.
+4 high-risk factors: high vulnerability.
+2-3 high-risk factors: medium vulnerability; watch triggers and reserve burn.
+0-1 high-risk factors: low near-term vulnerability unless reserve-currency confidence is deteriorating rapidly.
+```
+
+Treat these factors as multiplicative, not additive. Weak reserves and high FX debt can activate each other: capital outflow drains reserves, currency depreciation raises local-currency debt burdens, rising debt stress causes more outflow, and the spiral accelerates.
+
+### Reserve-Currency Exception And Its Limit
+
+Reserve-currency countries are less likely to suffer sudden emerging-market-style inflationary collapses because foreign investors and reserve managers structurally need the currency. This is a buffer, not an exemption.
+
+Assess reserve-currency countries for a slower, later-stage version of inflationary deleveraging:
+
+- Persistent fiscal deficits financed by central bank money creation.
+- Debt and debt service compounding faster than tax revenue or nominal income.
+- Repeated stimulus used to maintain unsustainable spending/growth.
+- Real creditor returns becoming unattractive.
+- Foreign official/private demand for the currency and bonds weakening.
+- Signs that capital is moving out of the currency despite its reserve role.
+
+When this pattern appears, state that reserve status increases policy space but does not remove debt, confidence, or currency constraints.
 
 ## Indicator Map
 
@@ -99,6 +174,7 @@ Use these categories:
 - Rates: policy rate, call rate, long government yield, real rates, yield curve.
 - Assets: equity total return, property prices, land prices, P/E, price-to-book, market cap to GDP, credit spreads.
 - External/currency: real effective exchange rate, current account, reserve flows, FX intervention.
+- Currency vulnerability: reserve-currency status, FX reserves/imports, FX reserves/short-term external debt, foreign-currency debt share, external debt service/export income, fiscal balance, trade balance, real interest rate, inflation history, and historical real currency/debt returns.
 - Fiscal: fiscal balance, primary balance, cyclically adjusted balance, stimulus measures, bank recapitalization costs.
 - Financial system: bank capital, non-performing loans, defaults, bankruptcies, lending standards.
 
@@ -161,4 +237,6 @@ Not ugly deleveraging:
 - Bond-rally misread: interpreting lower long rates as adequate easing when they may signal deflationary demand for safety.
 - Bank-solvency neglect: lowering rates without forcing recognition, recapitalization, or credit-channel repair.
 - Currency squeeze: allowing real currency appreciation to offset domestic easing.
+- Currency-confidence break: assuming reserve status, capital controls, or recent stability prevents capital flight when real returns, deficits, FX debt, and inflation credibility have deteriorated together.
+- FX-debt spiral: underestimating how depreciation increases local-currency debt burdens for borrowers owing foreign currency.
 - Asset-price denial: treating equity/property collapse as a market correction rather than collateral destruction in a leveraged economy.

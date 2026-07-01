@@ -95,7 +95,7 @@ Use these to compare Japan with other country cases or when national data are ha
 
 ### BIS
 
-Use for credit, debt service, credit gaps, residential property prices, and real/nominal effective exchange rates.
+Use for credit, debt service, credit gaps, residential property prices, real/nominal effective exchange rates, international banking exposure, and foreign-currency credit.
 
 - BIS Data Portal: https://data.bis.org/
 - BIS API documentation: https://stats.bis.org/api-doc/v2/
@@ -103,14 +103,21 @@ Use for credit, debt service, credit gaps, residential property prices, and real
 - Credit to the non-financial sector: https://www.bis.org/statistics/totcredit.htm
 - Debt service ratios: https://data.bis.org/topics/DSR
 - Credit-to-GDP gaps: https://data.bis.org/topics/CREDIT_GAPS
+- Effective exchange rates: https://www.bis.org/statistics/eer.htm
+- Global liquidity and foreign-currency credit: search BIS Data Portal for `Global liquidity indicators`.
+- Locational and consolidated banking statistics: use when cross-border bank exposure matters.
 
 ### IMF
 
-Use for WEO macro series, IFS interest rates/exchange rates, government finance, balance of payments, reserves, and cross-country current account data.
+Use for WEO macro series, IFS interest rates/exchange rates, government finance, balance of payments, reserves, reserve composition, and cross-country current account data.
 
 - IMF Data: https://www.imf.org/en/data
 - IMF Data Portal: https://data.imf.org/
 - IMF API: https://data.imf.org/en/Resource-Pages/IMF-API
+- COFER reserve-currency composition: https://data.imf.org/en/datasets/IMF.STA%3ACOFER
+- IFS access notes: use the IMF Data Portal API and filter for IFS where needed.
+- Balance of Payments and International Investment Position datasets: use for current account, reserve assets, portfolio flows, and external positions.
+- Government Finance Statistics and Fiscal Monitor: use for fiscal balance, public debt, and debt-service pressure.
 
 ### OECD
 
@@ -122,11 +129,14 @@ Use for GDP, unemployment, inflation, output gaps, confidence indicators, house 
 
 ### World Bank
 
-Use for annual macro and financial-market indicators, especially market capitalization to GDP and official exchange rate.
+Use for annual macro, financial-market, external-debt, reserve, and trade indicators, especially for emerging markets.
 
 - Indicators API: https://datahelpdesk.worldbank.org/knowledgebase/articles/889392-about-the-indicators-api-documentation
 - Indicators browser: https://data.worldbank.org/indicator
+- International Debt Statistics: https://datacatalog.worldbank.org/search/dataset/0038015/international-debt-statistics
+- Debt Statistics user guide/API: https://www.worldbank.org/en/programs/debt-statistics/user-guide
 - Official exchange rate: `PA.NUS.FCRF`
+- Foreign direct investment, portfolio flows, current account, imports, exports, reserves, and external debt indicators from WDI/IDS.
 - Market capitalization, percent of GDP: `CM.MKT.LCAP.GD.ZS`
 - Stocks traded turnover ratio: `CM.MKT.TRNR`
 
@@ -147,3 +157,9 @@ Use FRED for convenient retrieval only when the underlying source is official, a
 - P/E ratio: prefer exchange or official market-statistics sources. If official P/E is unavailable, label commercial estimates as supplementary.
 - Reserve flow: use changes in reserves or official balance-of-payments reserve assets scaled by GDP.
 - Fiscal balance: use general government balance when cross-country comparable; use national fiscal data for timelier local analysis.
+- Reserve-currency status: use IMF COFER/global reserve shares and judgment about global store-of-value demand; do not treat local legal tender status as reserve status.
+- FX reserve adequacy: compute reserves/imports, reserves/short-term external debt, reserve drawdown pace, and reserves/broad money where useful.
+- Foreign-currency debt: use World Bank IDS, BIS foreign-currency credit, national external debt reports, and IIP data; separate public, bank, corporate, and household exposure when possible.
+- External financing gap: combine fiscal deficit, trade/current-account deficit, external debt maturities, and capital-flow data.
+- Real rate: nominal policy or money-market rate minus current inflation and, when possible, expected inflation.
+- Inflation credibility: use long history of CPI, exchange-rate devaluation, sovereign default/restructuring, capital controls, and historical real returns on local-currency debt.

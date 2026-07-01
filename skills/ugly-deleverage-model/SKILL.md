@@ -1,6 +1,6 @@
 ---
 name: ugly-deleverage-model
-description: Diagnose ugly deleveraging risk and policy mistakes using the Japan 1984-1994 template. Use when asked why a country failed to ease enough after a debt/asset bubble, whether policy is too tight during a deleveraging, how fiscal/monetary/currency policy interact with deflationary forces, or which economic indicators are leading versus lagging in an ugly deleveraging.
+description: Diagnose ugly deleveraging risk and policy mistakes using the Japan 1984-1994 template. Use when asked why a country failed to ease enough after a debt/asset bubble, whether policy is too tight during a deleveraging, how fiscal/monetary/currency policy interact with deflationary forces, whether currency conditions create inflationary-depression risk, or which economic indicators are leading versus lagging in an ugly deleveraging.
 ---
 
 # Ugly Deleverage Model
@@ -22,7 +22,7 @@ Use this skill to assess whether a country is moving from bubble/top into an ugl
 6. Assess three policy pillars in each window:
    - Fiscal: stance, automatic stabilizers, stimulus, austerity, bank support, and balance-sheet repair.
    - Monetary: short rates, real rates, yield curve, liquidity, money/base money, credit transmission, and lender support.
-   - Currency: exchange-rate pressure, reserve flows, current account, intervention, and whether currency strength/weakness helps or hurts reflation.
+   - Currency: exchange-rate pressure, reserve flows, current account, intervention, reserve-currency status, FX reserves, foreign-currency debt, external financing gaps, real rates, inflation credibility, and whether currency strength/weakness helps or hurts reflation.
 7. Separate leading indicators from lagging indicators before judging policy mistakes.
 8. Return the matrix first, then explain the policy error, lagging-indicator trap, and ugly-deleveraging mechanism.
 
@@ -59,6 +59,7 @@ Read-through: <why easing did not stop the fall>
 
 Leading warning indicators: <asset prices, valuations, yield curve, credit, debt service, IP, currency/reserves, etc.>
 Lagging indicators that fooled policymakers: <unemployment, inflation, output gap, GDP, fiscal balance, etc.>
+Currency/inflationary-depression vulnerability: <reserve currency, reserves, FX debt, fiscal/trade deficits, real rates, inflation history>
 Ugly-deleveraging mechanism: <plain-language causal chain>
 What would have improved the outcome: <policy counterfactual>
 Data caveats: <missing/stale/non-comparable series>
