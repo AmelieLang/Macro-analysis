@@ -13,18 +13,19 @@ Use this skill to assess whether a country is moving from bubble/top into an ugl
 
 1. Identify the country, period, and cycle phase: bubble build-up, top/still-tightening, free fall, or later repair.
 2. Load `references/japan-1984-1994-case-study.md` when the user asks for the Japan template or for a comparison to Japan.
-3. Load `references/ugly-deleverage-rubric.md` for the policy-pillar framework, leading/lagging indicators, and output template.
-4. Load `references/official-data-sources.md` to gather or verify current/historical data from official sources.
-5. Split the assessment into three windows:
+3. Load `references/Inflationary deleveraging in non-reserve currency economies.md` when the user asks about Korea, Asian Financial Crisis dynamics, balance-of-payments crises, foreign-currency debt, reserve drains, currency defense, or inflationary deleveraging in non-reserve-currency economies.
+4. Load `references/ugly-deleverage-rubric.md` for the policy-pillar framework, leading/lagging indicators, and output template.
+5. Load `references/official-data-sources.md` to gather or verify current/historical data from official sources.
+6. Split the assessment into three windows:
    - `Pre-top/bubble`: the boom and tightening phase.
    - `Top/still-tightening`: asset prices and forward indicators break while policy remains tight or eases only modestly.
    - `Free fall with easing`: policy rates fall, but income, asset prices, credit, and confidence keep deteriorating.
-6. Assess three policy pillars in each window:
+7. Assess three policy pillars in each window:
    - Fiscal: stance, automatic stabilizers, stimulus, austerity, bank support, and balance-sheet repair.
    - Monetary: short rates, real rates, yield curve, liquidity, money/base money, credit transmission, and lender support.
    - Currency: exchange-rate pressure, reserve flows, current account, intervention, reserve-currency status, FX reserves, foreign-currency debt, external financing gaps, real rates, inflation credibility, and whether currency strength/weakness helps or hurts reflation.
-7. Separate leading indicators from lagging indicators before judging policy mistakes.
-8. Return the matrix first, then explain the policy error, lagging-indicator trap, and ugly-deleveraging mechanism.
+8. Separate leading indicators from lagging indicators before judging policy mistakes.
+9. Return the matrix first, then explain the policy error, lagging-indicator trap, and ugly-deleveraging mechanism.
 
 ## Output Shape
 
