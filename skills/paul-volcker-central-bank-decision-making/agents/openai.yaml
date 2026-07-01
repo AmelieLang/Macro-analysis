@@ -1,0 +1,4 @@
+interface:
+  display_name: "Paul Volcker_Central bank decision making"
+  short_description: "Study Volcker Fed policy reaction function"
+  default_prompt: "Use $paul-volcker-central-bank-decision-making to analyze the 1970-1984 Volcker Fed decision-making case."
