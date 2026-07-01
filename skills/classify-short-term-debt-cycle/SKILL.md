@@ -27,6 +27,7 @@ Use this skill to classify where a country-period sits in the archetypical short
 5. Assign a primary phase, confidence, and adjacent phase risk.
 6. Explain the policy stance and the expected asset-class pattern.
 7. List what would confirm a move to the next phase or invalidate the call.
+8. For unlabeled archetype charts, explicitly check lead-lag timing before assigning line names: growth versus potential normally leads, while short-term interest rates lag and often overshoot.
 
 ## Phase Labels
 
@@ -65,6 +66,7 @@ Data caveats: <missing/stale/non-comparable series>
 ## Guardrails
 
 - Do not classify from one chart. Use the full pattern across growth, slack, inflation, rates, credit, and assets.
+- Do not assume growth and short rates move together contemporaneously. In archetypical short-term debt-cycle charts, growth versus potential leads policy rates; short rates lag because central banks react to delayed growth, inflation, and employment data.
 - Distinguish short-term debt cycles from long-term debt cycles. Use `stage-debt-cycle` for long-term debt-cycle staging.
 - For current analysis, verify live data because rates, labor, inflation, markets, and policy expectations change quickly.
 - Compare indicators to the country's own history and institutional structure.

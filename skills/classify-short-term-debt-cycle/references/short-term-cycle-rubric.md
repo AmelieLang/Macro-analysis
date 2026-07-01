@@ -292,6 +292,77 @@ High-confidence calls require evidence from at least four areas:
 - Credit/housing/durables.
 - Markets.
 
+## Lead-Lag Chart Identification
+
+Use this section when the task is to identify unlabeled lines in an archetypical short-term debt-cycle chart.
+
+Key rule:
+- Growth versus potential leads.
+- Short-term interest rates lag and often overshoot.
+
+Do not infer the line names from amplitude alone or from the idea that strong growth and high rates should happen simultaneously. The critical diagnostic is timing.
+
+### Growth Versus Potential
+
+Growth versus potential usually:
+- Turns up before short rates rise.
+- Peaks before short rates peak.
+- Falls while short rates are still rising in the late boom/early recession.
+- Reaches recessionary trough before short rates finish falling.
+- Recovers before policy rates fully normalize.
+
+Interpretation:
+- Around the early expansion, growth can already be rising while the central bank is still easing or holding rates low.
+- Around the top, growth can already be rolling over while the central bank is still hiking because inflation and labor data lag growth.
+- In recession, growth can be deeply negative before the central bank has completed its rate-cutting response.
+
+### Short-Term Interest Rate
+
+Short-term rates usually:
+- Lag the growth cycle because central banks react to observed data, consensus, and inflation/labor confirmation.
+- Keep falling or stay low after growth has begun to recover from recession.
+- Keep rising after growth has already peaked.
+- Start falling only after recessionary evidence and inflation cooling are sufficiently clear.
+- Have larger visible swings than growth versus potential because central banks often cut and hike aggressively.
+
+Interpretation:
+- Rates can stay too low after growth turns up, fueling borrowing and the boom.
+- Rates can stay too high after growth turns down, intensifying the bust.
+- This lag and overshoot are a mechanical driver of the short-term debt cycle.
+
+### Why The Lag Exists
+
+Central banks react to lagged and revised data:
+- GDP is reported with delay and is revised.
+- Inflation often responds to growth with a lag.
+- Employment and unemployment also lag activity.
+
+Central banks face political and credibility constraints:
+- Raising rates too early risks being blamed for killing the recovery.
+- Cutting rates too early risks being blamed for reigniting inflation.
+- Consensus-building adds delay.
+
+Monetary policy transmission takes time:
+- Rate changes affect bank lending rates with a lag.
+- Borrowing behavior changes after financing conditions shift.
+- Spending, GDP, employment, and inflation respond later.
+- Full effects can take roughly 12-18 months.
+
+### Common Mistake
+
+Wrong intuition:
+- Higher growth means higher rates at the same time.
+- Therefore the more dramatic wave must be growth or the lines should move together.
+
+Correct intuition:
+- Growth leads and rates follow.
+- The rate line may have larger amplitude because policy reacts aggressively to lagging inflation and recession evidence.
+- When a chart shows one line turning down before the other line finishes rising, the leading line is usually growth versus potential and the lagging line is usually short-term rates.
+
+Practical check:
+- If one line peaks first and then falls into a deep trough while the other line continues rising, the first line is likely growth versus potential and the second line is likely short-term interest rates.
+- If a line continues falling or stays low while growth has already turned up, then later rises after growth is already strong, that line is likely short-term interest rates.
+
 ## Common False Reads
 
 - Calling early recovery just because equities rally. Confirm slack, low inflation, low rates, and improving credit-sensitive spending.
@@ -299,6 +370,7 @@ High-confidence calls require evidence from at least four areas:
 - Calling late cycle from strong growth alone. Confirm slack is gone, inflation pressure is rising, and rates/yields are moving up.
 - Calling recession too early because equities fall. Confirm tightening, curve behavior, credit slowdown, and activity deterioration.
 - Calling late recession before inflation falls enough for aggressive easing.
+- Mislabeling unlabeled cycle charts by assuming the red or larger-amplitude line is growth. Check lead-lag timing: growth versus potential leads, short-term rates lag and overshoot.
 
 ## Output Guidance
 
