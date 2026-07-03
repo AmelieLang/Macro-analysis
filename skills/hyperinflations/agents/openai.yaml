@@ -1,0 +1,4 @@
+interface:
+  display_name: "Hyperinflations"
+  short_description: "Assess hyperinflation spiral risk"
+  default_prompt: "Use $hyperinflations to assess whether an inflationary depression is spiraling into hyperinflation."

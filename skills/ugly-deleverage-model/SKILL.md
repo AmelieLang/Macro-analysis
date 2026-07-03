@@ -1,6 +1,6 @@
 ---
 name: ugly-deleverage-model
-description: Diagnose ugly deleveraging risk and policy mistakes using the Japan 1984-1994 template. Use when asked why a country failed to ease enough after a debt/asset bubble, whether policy is too tight during a deleveraging, how fiscal/monetary/currency policy interact with deflationary forces, whether currency conditions create inflationary-depression risk, whether an inflationary deleveraging is being managed beautifully or poorly, or which economic indicators are leading versus lagging in an ugly deleveraging.
+description: Diagnose ugly deleveraging risk and policy mistakes using the Japan 1984-1994 template. Use when asked why a country failed to ease enough after a debt/asset bubble, whether policy is too tight during a deleveraging, how fiscal/monetary/currency policy interact with deflationary forces, whether currency conditions create inflationary-depression risk, whether an inflationary deleveraging is being managed beautifully or poorly, whether hyperinflation risk is emerging from an inflationary deleveraging, or which economic indicators are leading versus lagging in an ugly deleveraging.
 ---
 
 # Ugly Deleverage Model
@@ -25,7 +25,8 @@ Use this skill to assess whether a country is moving from bubble/top into an ugl
    - Monetary: short rates, real rates, yield curve, liquidity, money/base money, credit transmission, and lender support.
    - Currency: exchange-rate pressure, reserve flows, current account, intervention, reserve-currency status, FX reserves, foreign-currency debt, external financing gaps, real rates, inflation credibility, and whether currency strength/weakness helps or hurts reflation.
 8. Separate leading indicators from lagging indicators before judging policy mistakes.
-9. Return the matrix first, then explain the policy error, lagging-indicator trap, and ugly-deleveraging mechanism.
+9. If the inflationary-deleveraging evidence shows unresolved external imbalances, repeated money printing, depreciation/capital-flight feedback, inflation psychology, shortening maturities, or money-function breakdown, use `$hyperinflations` for the escalation analysis.
+10. Return the matrix first, then explain the policy error, lagging-indicator trap, and ugly-deleveraging mechanism.
 
 ## Output Shape
 

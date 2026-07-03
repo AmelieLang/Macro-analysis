@@ -635,6 +635,9 @@ Bottom assessment:
 Policy quality:
 <beautiful/mixed/ugly management across currency, external imbalances, downturn smoothing, bad debts/defaults>
 
+Hyperinflation escalation:
+<whether unresolved external imbalance, money printing, currency collapse, capital flight, inflation psychology, liquidity breakdown, or money-function breakdown requires $hyperinflations>
+
 Leading warnings:
 <which indicators turned before GDP/unemployment>
 
@@ -658,3 +661,18 @@ Policy lesson:
 - Pair external liquidity with debt rollover/restructuring; liquidity without maturity repair may only delay the run.
 - Letting the currency adjust can restore competitiveness, but only if FX debt burdens and bank solvency are addressed.
 - Non-reserve-currency economies need a different easing rule than reserve-currency economies because domestic money creation cannot extinguish foreign-currency liabilities.
+
+## Hyperinflation Escalation Handoff
+
+Use `$hyperinflations` when an inflationary deleveraging satisfies several of these conditions:
+
+- External imbalances do not close: imports, external spending, or foreign-currency debt service remain too large relative to exports, external income, reserves, and stable capital inflows.
+- Policymakers keep funding external spending, fiscal deficits, banks, businesses, or debt service by printing money over a sustained period.
+- Currency depreciation, inflation, and capital flight become mutually reinforcing.
+- Negative real rates and weak currency confidence push savers from local money into foreign currency, gold, commodities, property, or other real assets.
+- Inflation psychology spreads into wages, contracts, rents, prices, or indexation.
+- Printed money increasingly flows into real/foreign assets instead of productive domestic activity.
+- Bank deposits and debt maturities shorten, creating liquidity pressure that policymakers answer with more money creation.
+- Money begins losing its store-of-value, unit-of-account, or medium-of-exchange roles.
+
+When four or more are visible, do not stop at the inflationary-deleveraging framework. Load `$hyperinflations` and classify the escalation stage.
