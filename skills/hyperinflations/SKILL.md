@@ -1,6 +1,6 @@
 ---
 name: hyperinflations
-description: Assess whether an inflationary depression or inflationary deleveraging is spiraling into hyperinflation. Use when asked about hyperinflation risk, extreme currency collapse, money printing, wage-price spirals, loss of money's store-of-value or medium-of-exchange role, Weimar-style or Venezuela-style crises, or whether policymakers can still stop printing and stabilize the currency.
+description: Assess whether an inflationary depression or inflationary deleveraging is spiraling into hyperinflation. Use when asked about hyperinflation risk, extreme currency collapse, money printing, wage-price spirals, loss of money's store-of-value or medium-of-exchange role, Weimar-style, Venezuela-style, or Argentina-style currency crises, or whether policymakers can still stop printing and stabilize the currency.
 ---
 
 # Hyperinflations
@@ -13,9 +13,10 @@ Use this skill to judge whether an inflationary deleveraging has moved from a se
 
 1. Identify the country, period, currency regime, debt structure, and whether the user asks about current risk, historical staging, policy failure, or investment/asset behavior.
 2. Load `references/hyperinflation-spiral-rubric.md` for the trigger conditions, stages, scoring, and output template.
-3. Load `references/official-data-sources.md` to gather official or official-sector data.
-4. Determine whether the country is already in an inflationary deleveraging. If not, classify the preconditions before judging hyperinflation.
-5. Score the hyperinflation escalation matrix:
+3. Load `references/argentina-1994-2004-case-study.md` when the user asks about Argentina, currency pegs, sovereign default, equity behavior after devaluation, or a severe inflationary deleveraging that did not become sustained hyperinflation.
+4. Load `references/official-data-sources.md` to gather official or official-sector data.
+5. Determine whether the country is already in an inflationary deleveraging. If not, classify the preconditions before judging hyperinflation.
+6. Score the hyperinflation escalation matrix:
    - External imbalance not closing.
    - External spending/debt service funded by repeated money printing.
    - Currency depreciation and capital flight reinforcing each other.
@@ -23,8 +24,8 @@ Use this skill to judge whether an inflationary deleveraging has moved from a se
    - Money printing losing growth impact as funds move to real/foreign assets.
    - Maturities shortening and the banking system becoming illiquid.
    - Money losing store-of-value, unit-of-account, or medium-of-exchange functions.
-6. Classify the country as `no hyperinflation risk`, `watchlist`, `high risk`, `spiraling`, or `hyperinflation`.
-7. Explain the causal chain, policy choices, and what would stop or worsen the spiral.
+7. Classify the country as `no hyperinflation risk`, `watchlist`, `high risk`, `spiraling`, or `hyperinflation`.
+8. Explain the causal chain, policy choices, and what would stop or worsen the spiral.
 
 ## Output Shape
 
