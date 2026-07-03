@@ -1,6 +1,6 @@
 ---
 name: ugly-deleverage-model
-description: Diagnose ugly deleveraging risk and policy mistakes using the Japan 1984-1994 template. Use when asked why a country failed to ease enough after a debt/asset bubble, whether policy is too tight during a deleveraging, how fiscal/monetary/currency policy interact with deflationary forces, whether currency conditions create inflationary-depression risk, or which economic indicators are leading versus lagging in an ugly deleveraging.
+description: Diagnose ugly deleveraging risk and policy mistakes using the Japan 1984-1994 template. Use when asked why a country failed to ease enough after a debt/asset bubble, whether policy is too tight during a deleveraging, how fiscal/monetary/currency policy interact with deflationary forces, whether currency conditions create inflationary-depression risk, whether an inflationary deleveraging is being managed beautifully or poorly, or which economic indicators are leading versus lagging in an ugly deleveraging.
 ---
 
 # Ugly Deleverage Model
@@ -13,7 +13,7 @@ Use this skill to assess whether a country is moving from bubble/top into an ugl
 
 1. Identify the country, period, and cycle phase: bubble build-up, top/still-tightening, free fall, or later repair.
 2. Load `references/japan-1984-1994-case-study.md` when the user asks for the Japan template or for a comparison to Japan.
-3. Load `references/Inflationary deleveraging in non-reserve currency economies.md` when the user asks about Korea, Asian Financial Crisis dynamics, balance-of-payments crises, foreign-currency debt, reserve drains, currency defense, or inflationary deleveraging in non-reserve-currency economies.
+3. Load `references/Inflationary deleveraging in non-reserve currency economies.md` when the user asks about Korea, Asian Financial Crisis dynamics, balance-of-payments crises, foreign-currency debt, reserve drains, currency defense, whether the country has bottomed, whether policy is doing well, or inflationary deleveraging in non-reserve-currency economies.
 4. Load `references/ugly-deleverage-rubric.md` for the policy-pillar framework, leading/lagging indicators, and output template.
 5. Load `references/official-data-sources.md` to gather or verify current/historical data from official sources.
 6. Split the assessment into three windows:

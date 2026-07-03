@@ -350,6 +350,160 @@ Korea did not owe primarily in a currency it could print. That changed the polic
 
 The core lesson is that non-reserve-currency deleveragings are governed by the availability and confidence of external funding. The key dashboard is therefore external-financing fragility plus domestic balance-sheet leverage.
 
+## Beautiful Versus Ugly Inflationary Deleveraging Management
+
+Use this section when the user asks whether a country managed, is managing, or is trending toward managing an inflationary deleveraging well. In this reference, `beautiful` means policymakers are closing the external financing gap, stabilizing the currency, repairing balance sheets, and smoothing the downturn without creating a renewed currency/inflation spiral. `Ugly` means policy is delaying adjustment, losing currency credibility, worsening capital flight, or allowing disorderly defaults to feed back into the balance-of-payments crisis.
+
+Assess four policy pillars:
+
+```text
+1. Managing the currency
+2. Closing external imbalances
+3. Smoothing the downturn
+4. Managing bad debts/defaults
+```
+
+Score each pillar as `well-managed`, `mixed`, `poorly-managed`, or `unknown`. Use official data first, then official program documents and central-bank/finance-ministry communications.
+
+### 1. Managing The Currency
+
+Well-managed pattern:
+
+- Policymakers do not pretend forever that devaluation is impossible when the balance of payments has already broken.
+- If devaluation is needed, it is large enough to create a two-way market: investors no longer have a one-way expectation of further currency weakness.
+- Currency adjustment is paired with credible external financing, rate policy, and restructuring, so depreciation does not become a self-feeding inflation spiral.
+- Reserves are used to smooth disorderly moves, not to defend an unsustainable level until reserves are exhausted.
+
+Poorly-managed pattern:
+
+- Policymakers are widely expected to allow currency weakness, creating more downward pressure on the currency and higher interest rates.
+- The initial devaluation is too small, so further devaluations are expected.
+- Markets price a one-way depreciation trade, pushing up interest rates, inflation expectations, and capital flight.
+- Public commitments to defend the currency lack reserve adequacy, rollover support, or credible policy backing.
+
+Official indicators:
+
+- Spot exchange rate, nominal effective exchange rate, real effective exchange rate.
+- Forward exchange rate, NDFs, forward premium/discount, cross-currency basis where available.
+- FX reserves, usable reserves, reserve drawdown pace, intervention data.
+- Short-term external debt/reserves.
+- Policy rate, money-market rate, real rate, and yield curve.
+- Inflation expectations, CPI pass-through, import prices.
+- Official statements, IMF program documents, central-bank intervention disclosures.
+
+### 2. Closing External Imbalances
+
+Well-managed pattern:
+
+- Tight enough monetary policy and currency adjustment reduce domestic demand in line with the fall in national income.
+- Policy creates incentives for investors to stay in the currency, including interest rates high enough to compensate for expected depreciation and inflation risk.
+- Current account improves through import compression and export competitiveness rather than only through collapse.
+- External financing needs shrink relative to reserves and official support.
+
+Poorly-managed pattern:
+
+- Policymakers favor short-term domestic conditions too much, leaving monetary policy too loose for the currency problem.
+- Loose policy delays domestic adjustment, stokes inflation, and worsens capital flight.
+- Policymakers try to stop capital outflow mainly with capital controls or restrictive measures while the underlying return/currency problem remains unresolved.
+- Current-account improvement is delayed or offset by capital flight, reserve loss, and falling confidence.
+
+Official indicators:
+
+- Current account and trade balance as percent of GDP.
+- Import volumes/value, export volumes/value, terms of trade.
+- Capital account/financial account flows, portfolio flows, bank flows, resident outflows.
+- Reserves/imports, reserves/short-term external debt, reserve drawdown.
+- Policy rate minus inflation and expected depreciation.
+- Capital-control measures, macroprudential FX measures, and official financing gaps.
+
+### 3. Smoothing The Downturn
+
+Well-managed pattern:
+
+- Reserves are used judiciously to smooth the withdrawal of foreign capital while the country works to close external imbalances.
+- Fiscal and monetary support are sequenced with currency stabilization: enough support to prevent unnecessary collapse, but not so much that it restarts capital flight.
+- External support, swap lines, IMF financing, and rollover agreements buy time for adjustment.
+- Social and banking support are targeted at preserving essential income and credit channels.
+
+Poorly-managed pattern:
+
+- Policymakers rely on reserve sales to maintain unsustainably high spending and delay adjustment.
+- Reserves are depleted without reducing the external financing gap.
+- Stimulus is too broad or too early relative to currency stabilization, feeding inflation and outflows.
+- Austerity is too blunt, causing avoidable output collapse and weakening debt repayment capacity.
+
+Official indicators:
+
+- Reserve loss relative to imports, short-term debt, and capital outflows.
+- Fiscal balance, primary balance, cyclically adjusted balance, and crisis spending.
+- IMF/multilateral disbursements, swap lines, official loans, and creditor rollover volumes.
+- Real GDP, industrial production, unemployment, wages, poverty/social-support data where official.
+- Bank lending, deposits, liquidity facilities, and credit growth.
+
+### 4. Managing Bad Debts And Defaults
+
+Well-managed pattern:
+
+- Policymakers work through debts of entities that are over-indebted.
+- Gaps are filled with credible capital, restructuring, rollover agreements, bank recapitalization, guarantees, or orderly resolution.
+- Losses are recognized enough to restore confidence without forcing unnecessary disorderly liquidation.
+- Systemically important institutions are stabilized while nonviable entities are restructured or resolved.
+
+Poorly-managed pattern:
+
+- Policymakers allow disorderly defaults that increase uncertainty and capital flight.
+- Insolvent banks or corporates are kept alive without credible restructuring, tying up credit and damaging confidence.
+- Debt standstills, controls, or guarantees are announced without clear rules, making investors rush for the exit.
+- FX-debt losses are ignored until depreciation has already made them systemic.
+
+Official indicators:
+
+- Non-performing loans, bankruptcies, default rates, arrears, and corporate interest coverage.
+- Bank capital, provisioning, liquidity, deposit flows, and recapitalization amounts.
+- External debt rollover/rescheduling, maturity extensions, creditor agreements.
+- Government guarantees, bank-resolution actions, fiscal cost of restructuring.
+- Corporate leverage, FX debt exposure, debt service/export income, debt service/cash flow.
+
+### Policy Quality Scoring
+
+Use this interpretation:
+
+```text
+4 well-managed pillars: beautiful inflationary deleveraging; policy is likely doing well.
+3 well-managed, 1 mixed/unknown: mostly beautiful; monitor the weak pillar.
+2 well-managed and 2 mixed/poor: mixed/transition; direction matters.
+1 or fewer well-managed, or 2+ poorly-managed pillars: ugly inflationary deleveraging.
+Unknown-heavy: insufficient data; identify missing official policy and market indicators.
+```
+
+When judging whether a country is "trending better," focus on direction:
+
+- Currency expectations move from one-way depreciation to two-way trading.
+- Current account improves and external financing gap narrows.
+- Capital outflow slows and official financing/rollover support stabilizes hard-currency liquidity.
+- Short rates can fall without renewed currency collapse.
+- Inflation expectations and realized inflation begin to fall after currency stabilization.
+- Bank/corporate restructuring reduces uncertainty and rollover risk.
+
+### Policy Quality Output Block
+
+Add this block when relevant:
+
+```text
+Inflationary deleveraging management: Beautiful | Mostly beautiful | Mixed/transition | Ugly | Insufficient data
+Trend: Improving | Deteriorating | Stable | Unclear
+
+Managing the currency: <well-managed/mixed/poorly-managed/unknown> - <evidence>
+Closing external imbalances: <well-managed/mixed/poorly-managed/unknown> - <evidence>
+Smoothing the downturn: <well-managed/mixed/poorly-managed/unknown> - <evidence>
+Managing bad debts/defaults: <well-managed/mixed/poorly-managed/unknown> - <evidence>
+
+Most important official indicators: <series and sources>
+Why this is beautiful or ugly: <causal synthesis>
+What would improve the score: <policy/data>
+What would worsen the score: <policy/data>
+```
+
 ## Bottom-Reached Checklist
 
 Use this section when the user asks whether a country that has already gone through an inflationary deleveraging has reached bottom. The bottom is not simply the lowest GDP print or the cheapest currency level. It is the point where the external-financing spiral stops worsening and the currency/rates/inflation feedback loop begins to stabilize.
@@ -477,6 +631,9 @@ Currency: <intervention, reserves, depreciation/appreciation, external support, 
 
 Bottom assessment:
 <current account/import compression, capital inflows, capital flight, external support, short/long rates, forward currency, inflation>
+
+Policy quality:
+<beautiful/mixed/ugly management across currency, external imbalances, downturn smoothing, bad debts/defaults>
 
 Leading warnings:
 <which indicators turned before GDP/unemployment>
