@@ -350,6 +350,100 @@ Korea did not owe primarily in a currency it could print. That changed the polic
 
 The core lesson is that non-reserve-currency deleveragings are governed by the availability and confidence of external funding. The key dashboard is therefore external-financing fragility plus domestic balance-sheet leverage.
 
+## Bottom-Reached Checklist
+
+Use this section when the user asks whether a country that has already gone through an inflationary deleveraging has reached bottom. The bottom is not simply the lowest GDP print or the cheapest currency level. It is the point where the external-financing spiral stops worsening and the currency/rates/inflation feedback loop begins to stabilize.
+
+### Typical Bottom Signals
+
+Score each signal as `yes`, `mixed`, `no`, or `unknown`.
+
+1. Current account improves sharply after import collapse.
+   - Look for imports falling enough to swing the current account toward balance or surplus.
+   - In the archetype, the current account improves by roughly 8 percent of GDP.
+   - This is often driven by import compression first, then later by currency-led export competitiveness.
+
+2. Capital inflows stop declining and stabilize.
+   - Track portfolio flows, bank rollover, FDI, external issuance, and official financing.
+   - The bottom is closer when the pace of capital-flow deterioration stops, even before flows become strongly positive.
+
+3. Capital flight abates.
+   - Watch resident outflows, deposit dollarization, reserve losses, parallel-market pressure, and forward-market stress.
+   - The key signal is that domestic money stops trying to leave at an accelerating pace.
+
+4. External official support appears when reserves are limited.
+   - IMF programs, regional facilities, swap lines, creditor rollover agreements, or multilateral financing can provide a stable source of hard currency.
+   - Support matters most when usable reserves cannot cover short-term external debt and near-term capital outflow.
+
+5. Short-term interest rates begin to fall, while long-term rates stay elevated.
+   - In the archetype, short rates often begin to come down about a year after the bottom.
+   - After peaking, short rates often return toward pre-crisis levels over roughly two years.
+   - Falling short rates are stimulative, but elevated long rates can still reflect inflation risk, default risk, and weak credibility.
+
+6. Forward currency price rallies relative to spot as short rates come down.
+   - This means forward-market stress is easing and expected depreciation pressure is moderating.
+   - Use forwards, cross-currency basis, NDFs, or implied forward points where available.
+
+7. Currency stabilization brings inflation down.
+   - Inflation usually falls after the currency stops collapsing and import-price pass-through fades.
+   - In the archetype, inflation often takes nearly two years after the bottom to return to pre-crisis levels.
+
+### Bottom Assessment Logic
+
+Use this interpretation:
+
+```text
+6-7 yes: bottom likely reached; recovery/repair phase is probably underway.
+4-5 yes: bottom forming; still vulnerable to relapse if reserves, rollover, or inflation credibility weaken.
+2-3 yes: stabilization attempt, not a confirmed bottom.
+0-1 yes: still in the falling phase or currency-defense/currency-break phase.
+unknown-heavy: insufficient data; identify the missing external-financing and currency-market indicators.
+```
+
+The strongest bottom evidence is a combined pattern:
+
+```text
+current-account adjustment
++ stabilizing capital flows
++ slower capital flight/reserve loss
++ external hard-currency backstop
++ falling short rates without renewed currency collapse
++ forward currency improvement
++ inflation deceleration
+= external-financing spiral has likely stopped worsening
+```
+
+### Korea Bottom Template
+
+For Korea, the bottoming process after the 1997 crisis fits this sequence:
+
+- The current account moved from deficit toward large surplus as imports collapsed and the cheaper won supported exports.
+- External support and creditor rollover/rescheduling helped stop the hard-currency funding run.
+- Reserve pressure eased after the IMF program and rollover arrangements.
+- High short rates used in the defense phase could later fall as the currency stabilized.
+- Inflation rose after depreciation but did not spiral because external support, restructuring, and policy credibility stabilized the won.
+- Growth recovered once the external constraint eased and domestic financial restructuring progressed.
+
+The lesson is that the bottom was created by external adjustment plus financing repair, not by lower rates alone.
+
+### Bottom Output Block
+
+Add this block to any country assessment when relevant:
+
+```text
+Bottom assessment: Reached | Forming | Not reached | Insufficient data
+Current account/import compression: <yes/mixed/no/unknown> - <evidence>
+Capital inflow stabilization: <yes/mixed/no/unknown> - <evidence>
+Capital flight abatement: <yes/mixed/no/unknown> - <evidence>
+External official support: <yes/mixed/no/unknown> - <evidence>
+Short-rate decline with long rates elevated: <yes/mixed/no/unknown> - <evidence>
+Forward currency improvement: <yes/mixed/no/unknown> - <evidence>
+Inflation deceleration after currency stabilization: <yes/mixed/no/unknown> - <evidence>
+
+Read-through: <why the external-financing spiral has or has not stopped worsening>
+Relapse risks: <reserve drain, rollover failure, renewed depreciation, inflation persistence, fiscal/bank losses>
+```
+
 ## Official Data Source Map
 
 Use these sources before relying on commercial or narrative estimates:
@@ -380,6 +474,9 @@ Policy pillars:
 Fiscal: <balance, guarantees, recapitalization, stimulus/austerity>
 Monetary: <rates, real rates, liquidity, banking support>
 Currency: <intervention, reserves, depreciation/appreciation, external support, controls>
+
+Bottom assessment:
+<current account/import compression, capital inflows, capital flight, external support, short/long rates, forward currency, inflation>
 
 Leading warnings:
 <which indicators turned before GDP/unemployment>
