@@ -1,6 +1,6 @@
 ---
 name: rays-investment-principles
-description: Apply a Ray Dalio/Bridgewater-style investment lens that is fundamental, systematic, and diversified. Use when the user asks for "Ray's angle", "Ray's investment principles", transaction-based pricing, money-and-credit analysis, debt-cycle or liquidity framing, All Weather-style asset-class sensitivities, market pricing versus future expectations, bubbles, macro-event attribution from asset returns, risk premiums and discount rates, total return decomposition into risk-free rate/beta/alpha, Holy Grail diversification, private markets, currencies, or structured analysis of stocks, bonds, credit, commodities, gold, inflation, growth, central-bank policy, QE, leverage, or portfolio construction.
+description: Apply a Ray Dalio/Bridgewater-style investment lens that is fundamental, systematic, and diversified. Use when the user asks for "Ray's angle", "Ray's investment principles", transaction-based pricing, money-and-credit analysis, debt-cycle or liquidity framing, All Weather-style asset-class sensitivities, market pricing versus future expectations, bubbles, macro-event attribution from asset returns, risk premiums and discount rates, total return decomposition into risk-free rate/beta/alpha, goal-relative risk, risk-neutral position, shortfall risk, volatility and drawdown analysis, risk allocation versus capital allocation, leverage mechanics, Holy Grail diversification, private markets, currencies, or structured analysis of stocks, bonds, credit, commodities, gold, inflation, growth, central-bank policy, QE, leverage, or portfolio construction.
 ---
 
 # Ray's Investment Principles
@@ -65,15 +65,25 @@ For deeper reference on the framework, read [references/ray-framework.md](refere
    - Treat every investment as a return stream, not as a label such as stock, bond, commodity, private equity, or currency.
    - Ask whether the return stream is good, risky, and diversifying.
 
-7. Connect policy and liquidity.
+7. Define risk from the investor's goal.
+   - Treat risk as anything that can prevent the investor from achieving the goal, not just standard deviation.
+   - Identify the risk-neutral or least-risk position from the liabilities, spending currency, time horizon, and purchasing-power objective.
+   - Evaluate volatility, drawdowns, shortfall risk, liquidity, leverage, operational, manager, oversight, and asset-base risks.
+
+8. Engineer diversification by risk, not capital.
+   - Look through asset labels to the underlying return streams and correlations.
+   - Allocate similar amounts of risk to genuinely diversifying return streams instead of assuming a 50/50 capital split is balanced.
+   - Use leverage or cash to scale efficient return streams up or down when appropriate.
+
+9. Connect policy and liquidity.
    - Examine central-bank reaction function, short rates, long rates, QE/QT, money creation, credit creation, fiscal deficits, currency pressure, and debt-service burdens.
    - Distinguish money printing that offsets credit contraction from money printing that adds to already-expanding credit.
 
-8. Test for bubble or deleveraging dynamics.
+10. Test for bubble or deleveraging dynamics.
    - Look for extrapolated expectations, leveraged buying, broad buyer entry, new issuance, worsening quality, policy accommodation, and vulnerability to tightening.
    - Look for falling collateral values, forced selling, credit contraction, rising defaults, and policy attempts to replace lost private credit with public money.
 
-9. Convert the view into a diversified portfolio implication.
+11. Convert the view into a diversified portfolio implication.
    - Do not make the answer depend on a single macro forecast.
    - Identify what wins and loses if growth rises/falls and inflation rises/falls.
    - Suggest hedges or balanced exposures when uncertainty is high.
@@ -89,9 +99,10 @@ Prefer this structure unless the user requests a different format:
 4. Growth/inflation/risk-premium/discount-rate drivers
 5. Macro event attribution, if relevant
 6. Risk-free/beta/alpha decomposition, if relevant
-7. Policy and liquidity transmission
-8. Upside case, downside case, and what would change the view
-9. Portfolio or risk-management implication
+7. Risk-neutral position and main risks to the goal, if relevant
+8. Policy and liquidity transmission
+9. Upside case, downside case, and what would change the view
+10. Portfolio or risk-management implication
 
 Use concise tables when comparing assets, regimes, or buyer/seller cohorts.
 
@@ -101,7 +112,10 @@ Use concise tables when comparing assets, regimes, or buyer/seller cohorts.
 - Distinguish nominal growth from real growth and inflation.
 - Distinguish real yields, break-even inflation, nominal yields, and credit spreads.
 - Treat credit as spending power, not as a footnote.
+- Define risk relative to the investor's goal before judging whether an asset is risky.
+- Do not equate risk with volatility alone; include shortfall, drawdown, liquidity, leverage, operational, manager, and mandate risks when relevant.
 - Treat diversification as correlation engineering, not owning many assets with the same hidden beta.
+- Allocate and compare risks, not just capital weights.
 - Separate beta from alpha before judging skill, manager value, or portfolio construction.
 - Prefer causal transaction attribution over vague statements like "the market was risk-on."
 - State uncertainty and the indicators that would falsify the view.
