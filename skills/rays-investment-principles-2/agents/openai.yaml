@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ray's Investment Principles 2"
+  short_description: "All Weather portfolio risk framework"
+  default_prompt: "Use $rays-investment-principles-2 to assess a portfolio's environmental balance and long-term ruin risks."
