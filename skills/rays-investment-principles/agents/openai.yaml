@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ray's Investment Principles"
+  short_description: "Ray-style macro and market analysis"
+  default_prompt: "Use $rays-investment-principles to analyze this market through Ray's fundamental, systematic, diversified lens."
